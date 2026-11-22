@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">eBooking.pk - Fly Aviation</string>
+    <string name="title_activity_main">eBooking.pk - Fly Aviation</string>
+    <string name="package_name">pk.ebooking.flyaviation</string>
+    <string name="custom_url_scheme">pk.ebooking.flyaviation</string>
+</resources>

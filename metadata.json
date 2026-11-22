@@ -1,0 +1,8 @@
+{
+  "name": "eBooking.pk with Fly Aviation Travel",
+  "description": "Self-service international and domestic flight booking, online checkout, visa dropbox, and Umrah travel portal by Fly Aviation Travel (Pvt) Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
